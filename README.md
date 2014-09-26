@@ -20,7 +20,7 @@ A package for plotting plot.ly graphs in Wolfram Mathematica
 - indeterminate function values are set to 0
 
 ## Version 0.2 planned
-- support for older versions of Mathematica
+- support for older versions of Mathematica (replace URLExecute with JSON)
 - support for styling
 - bugfixes & optimization
 - proper package declaration
