@@ -7,7 +7,8 @@ A package for plotting plot.ly graphs in Wolfram Mathematica
 ## Getting started
 1. Install package (File->Install)
 2. Type Needs["Plotly`"] in your notebook and input your Plotly username and key.
-3. Start plotting :)!
+3. The syntax matches native Plot function, just type Plotly[yourfunction,{x,min,max}]
+4. Start plotting :)!
 
 (You can ignore this error "Context \!\(\"Plotly`\"\) was not created when Needs was evaluated.")
 
