@@ -5,7 +5,7 @@ A package for plotting plot.ly graphs in Wolfram Mathematica
 
 
 ## Getting started
-1. Install package (File->Install) and select plotly.m
+1. Install package (File->Install) and select plotly.m as the source
 2. Type Needs["Plotly`"] in your notebook.
 3. The syntax matches native Plot function, just type Plotly[yourfunction,{x,min,max}] to make your first plot.
 4. (optional) type PlotlyLogin[username,APIKey] to plot under your Plotly account
