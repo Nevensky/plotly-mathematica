@@ -16,12 +16,12 @@ A package for creating plot.ly graphs in Wolfram Mathematica
 - out of the box plotting, no need to input user/pass
 
 # Future releases
-## Version 0.3 (planned)
+## Version 0.3 (in the works)
 - support for older versions of Mathematica (replace URLExecute with JSON)
 - support for styling
 - code rewrite
 
-## Versiin 0.4+ 
+## Versiin 0.4+  (planned)
 - support for discrete plots, histograms, heatmaps, data streams, 3d plots, etc.
 
 # Legacy releases
