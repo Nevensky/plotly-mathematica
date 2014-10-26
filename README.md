@@ -10,20 +10,21 @@ A package for creating plot.ly graphs in Wolfram Mathematica
 3. The syntax matches native Plot function, just type Plotly[yourfunction,{x,min,max}] to make your first plot.
 4. (optional) type PlotlyLogin[username,APIKey] to plot under your Plotly account
 
-## Version 0.2 (released)
+## Version 0.2 (current)
 - bugfixes & optimization
 - proper package declaration
 - out of the box plotting, no need to input user/pass
 
+# Future releases
 ## Version 0.3 (planned)
 - support for older versions of Mathematica (replace URLExecute with JSON)
 - support for styling
 - code rewrite
 
-## Future versions
-- support for discrete plots, histograms, heatmaps, data streams, etc.
+## Versiin 0.4+ 
+- support for discrete plots, histograms, heatmaps, data streams, 3d plots, etc.
 
-# Legacy versions
+# Legacy releases
 ## Version 0.1 (legacy)
 - replicates the functionality of the the native Plot function within Mathematica
 - works only in Mathematica 10
