@@ -1,5 +1,5 @@
 # PlotlyMathematica
-A package for plotting plot.ly graphs in Wolfram Mathematica
+A package for creating plot.ly graphs in Wolfram Mathematica
 
 ![Plotly-Mathematica Plot](http://cl.ly/XybJ/Image%202014-10-11%20at%2012.15.25%20pm.png)
 
