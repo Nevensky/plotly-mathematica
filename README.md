@@ -15,17 +15,17 @@ A package for creating plot.ly graphs in Wolfram Mathematica
 - proper package declaration
 - out of the box plotting, no need to input user/pass
 
-# Future releases
-## Version 0.3 (in the works)
+## Future releases
+### Version 0.3 (in the works)
 - support for older versions of Mathematica (replace URLExecute with JSON)
 - support for styling
 - code rewrite
 
-## Versiin 0.4+  (planned)
+### Version 0.4+  (planned)
 - support for discrete plots, histograms, heatmaps, data streams, 3d plots, etc.
 
-# Legacy releases
-## Version 0.1 (legacy)
+## Legacy releases
+### Version 0.1 (legacy)
 - replicates the functionality of the the native Plot function within Mathematica
 - works only in Mathematica 10
 - no support for styling within Mathematica (PlotStyle, PlotLabel, AxesLabel, etc.)
